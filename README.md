@@ -163,7 +163,7 @@ Botões:
 
 ## 🎥 Vídeo Explicativo
 
-📺 Assista ao vídeo explicando o projeto: [Link para o vídeo]()
+📺 Assista ao vídeo explicando o projeto: [Link para o vídeo](https://youtu.be/s1YcKbS_FjU?si=RLxZdAGxY7t1xoHK)
 
 ---
 
