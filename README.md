@@ -75,16 +75,18 @@ Você pode montar o circuito com base nos seguintes pontos:
 
 ## 📂 Estrutura de Arquivos
 
-cp2-edge-vinheria-agnello/
-└── cp2-visionary-solutions
-    ├── cp2-edge.ino               # Código-fonte comentado (Arduino C++)
-    ├── diagram.json               
-    └── img/                       # Prints do circuito e LCD
-        ├── img-circuito1.png
-        └── img-circuito2.png
-├── README.md                # Este arquivo
-├── libraries.txt            # Livrarias utilizadas
-└── wokwi-project.txt        # Link para simulação no Wokwi
+<pre><code>
+    cp2-edge-vinheria-agnello/
+    └── cp2-visionary-solutions
+        ├── cp2-edge.ino               # Código-fonte comentado (Arduino C++)
+        ├── diagram.json               
+        └── img/                       # Prints do circuito e LCD
+            ├── img-circuito1.png
+            └── img-circuito2.png
+    ├── README.md                # Este arquivo
+    ├── libraries.txt            # Livrarias utilizadas
+    └── wokwi-project.txt        # Link para simulação no Wokwi
+</code></pre>
 
 ---
 
@@ -105,17 +107,19 @@ Cada registro ocupa **10 bytes**:
 
 ## 🗺️ Mapa de Menus
 
-[Menu Inicial]
-|
-|---> LUM (Luminosidade)
-| |--> % atual + status (OK / Alerta / Perigo)
-| |--> Média dos últimos 10s
-|
-|---> UMI (Umidade)
-| |--> % atual + status
-|
-|---> TEMP (Temperatura)
-|--> °C atual + status
+<pre><code>
+    [Menu Inicial]
+    |
+    |---> LUM (Luminosidade)
+    | |--> % atual + status (OK / Alerta / Perigo)
+    | |--> Média dos últimos 10s
+    |
+    |---> UMI (Umidade)
+    | |--> % atual + status
+    |
+    |---> TEMP (Temperatura)
+    |--> °C atual + status
+</code></pre>
 
 ---
 
@@ -137,7 +141,7 @@ Botões:
 
 ### Passo a Passo:
 
-1. Acesse o link da simulação no [Wokwi](https://wokwi.com/projects/431522975301554177).
+1. Acesse o link da [simulação no Wokwi](https://wokwi.com/projects/431522975301554177).
 2. Copie o código para o editor de código.
 3. **Monte o circuito** conforme descrito.
 4. Abra o **Monitor Serial** (opcional) para visualizar logs.
