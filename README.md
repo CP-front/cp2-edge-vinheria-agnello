@@ -8,7 +8,7 @@ O projeto foi desenvolvido como parte do **Checkpoint 2 da disciplina de Edge Co
 
 ## 💻 Circuito
 
-![Esquema do Circuito]()
+![Esquema do Circuito](./cp2-visionary-solutions/img/imagem-circuito.png)
 
 ## ⚙️ Funcionalidades
 
